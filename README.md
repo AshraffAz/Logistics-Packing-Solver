@@ -1,2 +1,2 @@
-"# Logistics Packing Solver" 
+# Logistics Packing Solver
 
