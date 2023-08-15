@@ -1,7 +1,7 @@
 # 3D Bin Packing Algorithm
 
-## Credits:
 Written by: Ng Jun Tim & Ashraff Azwar
+
 ## Introduction
 
 This project aims to develop an efficient 3D bin packing algorithm, tailored for optimizing space utilization in logistic operations. The algorithm will accommodate real-world constraints such as the orientation of specific items.
